@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <strong>Software Engineer • Comp Sci @ UW • Systems | AI | Mobile | Infra</strong>
+  <strong>Software Engineer • Comp Sci @ UW | AI | Backend | Mobile | Infra</strong>
 </p>
 
 <p align="center">
