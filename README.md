@@ -41,7 +41,7 @@
 
 #### 🪵 [loggui](https://github.com/M4TTH3/loggui)
 > A GoLang open source project to provide functionality similar to C\# Serilog.
-> Provides the ability for multi-server logging with a centralized UI stored in a database.
+> Provides the ability for multi-server logging with a centralized UI accessing logs stored in a database.
 > Supports: net/http, Gin, Chi, ...
 
 ---
