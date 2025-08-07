@@ -46,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Public GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M4TTH3&show_icons=true&theme=radical&hide=stars&count_private=true&hide_rank=true" height="165"/>
